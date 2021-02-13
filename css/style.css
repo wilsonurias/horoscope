@@ -41,10 +41,10 @@ section{
 
 @media screen and (max-width: 600px){
   #result{
-    color:red;
+    color:white;
     height: 600px;
     width: 300px;
-    margin-left: 75px;
+    margin-left: 60px;
   }
 }
 
