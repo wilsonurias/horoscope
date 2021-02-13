@@ -39,6 +39,15 @@ section{
   margin: 75px 300px;
 }
 
+@media screen and (max-width: 600px){
+  #result{
+    color:red;
+    height: 600px;
+    width: 300px;
+    text-align: center;
+  }
+}
+
 
 /******************************************
 /* LAYOUT
